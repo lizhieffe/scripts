@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+adb shell dumpsys activity | grep -i run
